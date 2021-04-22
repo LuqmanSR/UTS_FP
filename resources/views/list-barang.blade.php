@@ -31,9 +31,9 @@
     @endif
         @foreach($data as $d)
         <tbody>
-        <tr> 
+        <tr>
             <td>{{ $d->id}}</td>
-            <td>{{ $d->kategori}}</td> 
+            <td>{{ $d->kategori}}</td>
             <td>{{ $d->nama}}</td>
             <td>{{ $d->stok}}</td>
             <td>
@@ -48,7 +48,7 @@
 </div>
 
 <nav class="navbar fixed-bottom navbar-light bg-primary  text-white">
-    <a class="navbar-brand">@Copyright Moh.Ichsan Maulana | 2021</a>
+    <a class="navbar-brand">@Copyright Luqman Syafi Rabbani | 2021</a>
 </nav>
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -56,4 +56,3 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-  

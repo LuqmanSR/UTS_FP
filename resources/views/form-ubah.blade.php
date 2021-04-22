@@ -17,17 +17,17 @@
 <form action="/ubah-barang" method="POST" >
     <div class="form-group">
         <label for="kategori">Kategori Barang : </label>
-        <input class="form-control" type="text" name="kategori" id="kategori" 
+        <input class="form-control" type="text" name="kategori" id="kategori"
         value="{{$data->kategori}}">
     </div>
     <div class="form-group">
         <label for="nama">Nama Barang : </label>
-        <input class="form-control" type="text" name="nama" id="nama" 
+        <input class="form-control" type="text" name="nama" id="nama"
         value="{{$data->nama}}">
     </div>
     <div class="form-group">
         <label for="stok">Stok Barang : </label>
-        <input class="form-control" type="number" name="stok" id="stok" 
+        <input class="form-control" type="number" name="stok" id="stok"
         value="{{ $data->stok }}">
     </div>
     <input type="hidden" value="{{ $data->id }}" id="id" name="id">
@@ -38,7 +38,7 @@
 </div>
 
 <nav class="navbar fixed-bottom navbar-light bg-primary  text-white">
-    <a class="navbar-brand">@Copyright Moh.Ichsan Maulana | 2021</a>
+    <a class="navbar-brand">@Copyright Luqman Syafi Rabbani | 2021</a>
 </nav>
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">

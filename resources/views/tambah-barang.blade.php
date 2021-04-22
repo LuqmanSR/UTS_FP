@@ -34,7 +34,7 @@
 </div>
 
 <nav class="navbar fixed-bottom navbar-light bg-primary  text-white">
-    <a class="navbar-brand">@Copyright Moh.Ichsan Maulana | 2021</a>
+    <a class="navbar-brand">@Copyright Luqman Syafi Rabbani | 2021</a>
 </nav>
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
